@@ -74,13 +74,10 @@ export default [
         path: 'query-attendance',
         component: resolve(['dashboard', 'query-attendance']),
       },
-<<<<<<< HEAD
       {
         path: 'add-user',
         component: resolve(['dashboard', 'add-user']),
       },
-=======
->>>>>>> c2d54c78bb66bccb1aebb74c2f51117658424322
     ],
   },
 ];
